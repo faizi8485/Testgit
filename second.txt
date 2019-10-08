@@ -1,2 +1,3 @@
 hello word
 changes for smart git to upload on github
+now to pull at smart git
